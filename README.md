@@ -1,5 +1,4 @@
 # aws-stuff
-Yoku AWS credentials and other stuff
 
 ##### To install Oracle JDK 8 (not tested)
 `sh install_jdk8.sh`
